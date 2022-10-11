@@ -1,0 +1,16 @@
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Repository.deps.json
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Repository.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Repository.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Common.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.DBEngine.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Models.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Common.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.DBEngine.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\bin\Release\netcoreapp2.2\BusBookingSystem.Models.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.csprojAssemblyReference.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.csproj.CoreCompileInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.AssemblyInfoInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.AssemblyInfo.cs
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.csproj.CopyComplete
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Repository\obj\Release\netcoreapp2.2\BusBookingSystem.Repository.pdb

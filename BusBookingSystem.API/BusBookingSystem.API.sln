@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.API", "BusBookingSystem.API\BusBookingSystem.API.csproj", "{5A6596A0-3762-461A-B0FA-0A83E99BC586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.Common", "BusBookingSystem.Common\BusBookingSystem.Common.csproj", "{82BA609F-DAFA-472E-9859-4BF40970AA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.DBEngine", "BusBookingSystem.DBEngine\BusBookingSystem.DBEngine.csproj", "{3FE4F3E1-ED82-4801-A04A-C8042C116698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.Models", "BusBookingSystem.Models\BusBookingSystem.Models.csproj", "{C64E7EDC-64AD-4323-8C08-C02884AD8F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.Repository", "BusBookingSystem.Repository\BusBookingSystem.Repository.csproj", "{61DFA0EF-1DBD-48F7-A556-A1EA0DE00CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBookingSystem.Service", "BusBookingSystem.Service\BusBookingSystem.Service.csproj", "{B902B21F-3F7E-4D94-9720-32F724BF653D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6596A0-3762-461A-B0FA-0A83E99BC586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6596A0-3762-461A-B0FA-0A83E99BC586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6596A0-3762-461A-B0FA-0A83E99BC586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6596A0-3762-461A-B0FA-0A83E99BC586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BA609F-DAFA-472E-9859-4BF40970AA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BA609F-DAFA-472E-9859-4BF40970AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BA609F-DAFA-472E-9859-4BF40970AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BA609F-DAFA-472E-9859-4BF40970AA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE4F3E1-ED82-4801-A04A-C8042C116698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE4F3E1-ED82-4801-A04A-C8042C116698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE4F3E1-ED82-4801-A04A-C8042C116698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE4F3E1-ED82-4801-A04A-C8042C116698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64E7EDC-64AD-4323-8C08-C02884AD8F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64E7EDC-64AD-4323-8C08-C02884AD8F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64E7EDC-64AD-4323-8C08-C02884AD8F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64E7EDC-64AD-4323-8C08-C02884AD8F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DFA0EF-1DBD-48F7-A556-A1EA0DE00CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DFA0EF-1DBD-48F7-A556-A1EA0DE00CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DFA0EF-1DBD-48F7-A556-A1EA0DE00CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DFA0EF-1DBD-48F7-A556-A1EA0DE00CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B902B21F-3F7E-4D94-9720-32F724BF653D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B902B21F-3F7E-4D94-9720-32F724BF653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B902B21F-3F7E-4D94-9720-32F724BF653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B902B21F-3F7E-4D94-9720-32F724BF653D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648E8BBC-FD40-4499-B9F9-4561FBF73F3D}
+	EndGlobalSection
+EndGlobal

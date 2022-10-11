@@ -1,0 +1,9 @@
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\bin\Release\netcoreapp2.2\BusBookingSystem.Models.deps.json
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\bin\Release\netcoreapp2.2\BusBookingSystem.Models.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\bin\Release\netcoreapp2.2\BusBookingSystem.Models.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.csprojAssemblyReference.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.csproj.CoreCompileInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.AssemblyInfoInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.AssemblyInfo.cs
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.Models\obj\Release\netcoreapp2.2\BusBookingSystem.Models.pdb

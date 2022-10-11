@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusBookingSystem.Common\BusBookingSystem.Common.csproj" />
+    <ProjectReference Include="..\BusBookingSystem.DBEngine\BusBookingSystem.DBEngine.csproj" />
+    <ProjectReference Include="..\BusBookingSystem.Models\BusBookingSystem.Models.csproj" />
+  </ItemGroup>
+
+</Project>

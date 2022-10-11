@@ -1,0 +1,9 @@
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\bin\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.deps.json
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\bin\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\bin\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.csproj.CoreCompileInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.AssemblyInfoInputs.cache
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.AssemblyInfo.cs
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.dll
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.pdb
+D:\Training\API\BusBookingSystem.API\BusBookingSystem.DBEngine\obj\Debug\netcoreapp2.2\BusBookingSystem.DBEngine.csprojAssemblyReference.cache
