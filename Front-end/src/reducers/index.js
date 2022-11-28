@@ -1,5 +1,8 @@
 import { combineReducers } from "redux";
-import userAPI from "./userAPI";
+import BusApi from "./BusApi";
+import LoginApi from "./LoginApi";
+
 export default combineReducers({
-  userAPI,
+  LoginApi,
+  BusApi,
 });

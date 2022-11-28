@@ -3,36 +3,43 @@ import { Link, useNavigate } from "react-router-dom";
 import { useFormik } from "formik";
 import * as Yub from "yup";
 import { useDispatch, useSelector } from "react-redux";
-import { userLogin } from "../../actions/User";
+import { userLogin } from "../../actions/Login";
 import swal from "sweetalert";
 
 const Login = () => {
-  const dispatch = useDispatch();
   const navigate = useNavigate();
-
-  const lcStorage = localStorage.getItem("isAuthenticated");
-  const { userData, error } = useSelector((state) => state.userAPI);
-  console.log(userData);
+  const dispatch = useDispatch();
 
   const [passType, setpassType] = useState("password");
   const [passIcon, setpassIcon] = useState("fas fa-lock");
 
-  useEffect(() => {
-    if (error == "login error") {
-      swal({
-        title: "Login",
-        text: "Invalid username or password",
-        icon: "error",
-      });
-    }
-  }, [error]);
+  const { error, userData, success } = useSelector((state) => state.LoginApi);
+
+  const lcStorage = JSON.parse(localStorage.getItem("userDetails"));
 
   useEffect(() => {
-    if (userData?.resultData?.rollId || lcStorage) {
-      console.log(userData?.resultData?.rollId);
+    console.log(userData);
+    if (userData || lcStorage) {
       navigate("/dashboard");
     }
-  }, [userData]);
+  }, [lcStorage, userData]);
+
+  useEffect(
+    () => {
+      if (error == "login error") {
+        swal({
+          title: "Login",
+          text: "Invalid username or password",
+          icon: "error",
+        });
+      }
+      if (success === "register success") {
+        swal("Register Success");
+      }
+    },
+    [error],
+    success
+  );
 
   const showPassword = () => {
     if (passType === "password") {
@@ -76,7 +83,7 @@ const Login = () => {
     <div className="hold-transition login-page">
       <div className="login-box">
         <div className="card">
-          <div className="card-body login-card-body">
+          <div className="card-body login-card-body ">
             <p className="login-box-msg">Sign in to pick your bus</p>
             <form onSubmit={loginForm.handleSubmit}>
               <div className="input-group mb-3">
@@ -150,9 +157,8 @@ const Login = () => {
               </div>
 
               <div className="social-auth-links text-center mb-3">
-                <p>- OR -</p>
                 <button type="submit" className="btn btn-block btn-primary">
-                  <i className="fab fa-facebook mr-2" /> Sign in
+                  Sign in
                 </button>
               </div>
             </form>
